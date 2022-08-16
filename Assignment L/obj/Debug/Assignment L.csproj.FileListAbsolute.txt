@@ -1,0 +1,13 @@
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\bin\Debug\Assignment L.exe.config
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\bin\Debug\Assignment L.exe
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\bin\Debug\Assignment L.pdb
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment L.csproj.AssemblyReference.cache
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment L.csproj.SuggestedBindingRedirects.cache
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment_L.Form1.resources
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment_L.Properties.Resources.resources
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment L.csproj.GenerateResource.cache
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment L.csproj.CoreCompileInputs.cache
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment L.exe
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment L.pdb
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment_L.Main.resources
+C:\Users\14434\Desktop\windows programming\Assignment L\Assignment L\obj\Debug\Assignment_L.Main_Windows.resources
